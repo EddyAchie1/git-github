@@ -1,2 +1,2 @@
 # git-github
-This is my first git reositry for ttorial purposes
+This is my first git repository for ttorial purposes
